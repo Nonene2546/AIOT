@@ -1,0 +1,8 @@
+data*
+output*
+cp*
+checkpoint
+sbatch*
+quantitative
+*.npy
+temp*
